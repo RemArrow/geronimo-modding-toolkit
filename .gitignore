@@ -1,0 +1,23 @@
+# build outputs
+bin/
+obj/
+*.user
+
+# never commit game assets or extracted content
+*.uasset
+*.uexp
+*.ubulk
+*.pak
+*.utoc
+*.ucas
+*.usmap
+*.bin
+
+# never commit source art
+*.fbx
+*.obj
+*.blend
+*.png
+*.tga
+*.jpg
+*.jpeg
